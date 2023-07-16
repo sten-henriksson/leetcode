@@ -1,4 +1,4 @@
 
 #pragma once
-
-int myFunction();
+#include <vector> 
+bool myFunction(std::vector<int>& nums);
