@@ -1,4 +1,4 @@
 
 #pragma once
-
-int myFunction();
+#include <iostream>
+bool myFunction(std::string s, std::string t );
